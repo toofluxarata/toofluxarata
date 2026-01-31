@@ -6,5 +6,5 @@
 
 <p align="center">
 
-  $${\textsf{\color{#FFEECB}six, he/any, ambonec}}$$<br>
-<a href="https://github.com/thedirties/"> ei</a> $${\textsf{\color{#B879B9}and}}$$ <a href="https://github.com/thecleansers/">sev</a> $${\textsf{\color{#B879B9}my gng}}$$<br>
+  $${\textsf{\color{#FFEECB}matt/yu, he/him}}$$<br>
+<a href="https://mattparkzyaoi.atabook.org/"> atabook</a> <a href="https://mattparkzyaoi.carrd.co/"> carrd</a><br>
